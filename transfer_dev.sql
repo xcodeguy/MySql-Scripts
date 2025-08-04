@@ -1,0 +1,3 @@
+SELECT *
+FROM `transfer`
+LIMIT 1000;
